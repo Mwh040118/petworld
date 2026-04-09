@@ -1,0 +1,22 @@
+{
+  "appId": "com.petworld.kids",
+  "appName": "PetWorld",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#FF6B9D"
+    },
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#FF6B9D",
+      "showSpinner": false
+    }
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}

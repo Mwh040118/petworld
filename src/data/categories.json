@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cat",
+    "emoji": "🐱",
+    "name": { "zh": "猫咪", "en": "Cat" },
+    "description": { "zh": "优雅的小猎手，人类最受欢迎的伙伴之一", "en": "Elegant little hunters, one of humanity's most popular companions" },
+    "color": "#E17055",
+    "bgColor": "#FFE0D6"
+  },
+  {
+    "id": "dog",
+    "emoji": "🐶",
+    "name": { "zh": "狗狗", "en": "Dog" },
+    "description": { "zh": "人类最忠实的伙伴，永远的好朋友", "en": "Humanity's most loyal companion, forever friend" },
+    "color": "#0984E3",
+    "bgColor": "#D6EFFF"
+  },
+  {
+    "id": "rabbit",
+    "emoji": "🐰",
+    "name": { "zh": "兔子", "en": "Rabbit" },
+    "description": { "zh": "毛茸茸的小可爱，吃货中的战斗机", "en": "Fluffy little cuties, champion eaters" },
+    "color": "#FD79A8",
+    "bgColor": "#FFE0EC"
+  },
+  {
+    "id": "turtle",
+    "emoji": "🐢",
+    "name": { "zh": "乌龟", "en": "Turtle" },
+    "description": { "zh": "长寿的智慧老人，背着自己的房子到处走", "en": "Wise elders of longevity, carrying their homes everywhere" },
+    "color": "#00B894",
+    "bgColor": "#D5FFE8"
+  },
+  {
+    "id": "snake",
+    "emoji": "🐍",
+    "name": { "zh": "蛇", "en": "Snake" },
+    "description": { "zh": "神秘又酷炫的冷血朋友，比你想象的更温柔", "en": "Mysterious and cool cold-blooded friends, gentler than you think" },
+    "color": "#6C5CE7",
+    "bgColor": "#E8E0FF"
+  },
+  {
+    "id": "spider",
+    "emoji": "🕷️",
+    "name": { "zh": "蜘蛛", "en": "Spider" },
+    "description": { "zh": "八条腿的小艺术家，织网界的顶级工程师", "en": "Eight-legged little artists, top engineers of web-weaving" },
+    "color": "#FF6B6B",
+    "bgColor": "#FFE0E0"
+  },
+  {
+    "id": "bird",
+    "emoji": "🦜",
+    "name": { "zh": "鸟类", "en": "Bird" },
+    "description": { "zh": "会唱歌的小精灵，天空中的彩色朋友", "en": "Singing little sprites, colorful friends of the sky" },
+    "color": "#00CEC9",
+    "bgColor": "#DFFFFE"
+  },
+  {
+    "id": "hamster",
+    "emoji": "🐹",
+    "name": { "zh": "仓鼠", "en": "Hamster" },
+    "description": { "zh": "圆滚滚的毛球，腮帮子可以塞下整个世界", "en": "Round little furballs with cheeks that can hold the whole world" },
+    "color": "#FDCB6E",
+    "bgColor": "#FFF8E1"
+  },
+  {
+    "id": "fish",
+    "emoji": "🐟",
+    "name": { "zh": "观赏鱼", "en": "Aquarium Fish" },
+    "description": { "zh": "水中的精灵，游来游去的小艺术家", "en": "Spirits of the water, swimming little artists" },
+    "color": "#0984E3",
+    "bgColor": "#D6EFFF"
+  },
+  {
+    "id": "crocodile",
+    "emoji": "🐊",
+    "name": { "zh": "鳄鱼", "en": "Crocodile" },
+    "description": { "zh": "活化石级别的酷酷大佬，远古时代的霸主", "en": "Cool boss-level living fossils, overlords of ancient times" },
+    "color": "#00B894",
+    "bgColor": "#D5FFE8"
+  },
+  {
+    "id": "lizard",
+    "emoji": "🦎",
+    "name": { "zh": "蜥蜴", "en": "Lizard" },
+    "description": { "zh": "冷面小王子，断尾求生的战术大师", "en": "Cool little princes, tactical masters of tail-loss survival" },
+    "color": "#00B894",
+    "bgColor": "#D5FFE8"
+  },
+  {
+    "id": "frog",
+    "emoji": "🐸",
+    "name": { "zh": "蛙类", "en": "Frog" },
+    "description": { "zh": "会唱歌的小绿球，蚊子的终极天敌", "en": "Singing little green balls, the ultimate nemesis of mosquitoes" },
+    "color": "#00B894",
+    "bgColor": "#D5FFE8"
+  }
+]
